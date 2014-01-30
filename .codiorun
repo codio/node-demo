@@ -1,0 +1,6 @@
+{
+  "default": "Start Node Demo",
+  "commands": {
+    "Start Node Demo": "npm start"
+  }
+}
